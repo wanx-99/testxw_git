@@ -10,4 +10,5 @@ int main()
 
 int test()
 {
+  printf("test master\n");
 }
