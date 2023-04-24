@@ -15,4 +15,6 @@ int test()
   printf("test xiewan till\n");
   printf("test merge\n");
   printf("test stash -wan99\n");
+
+  printf("test stash\n");
 }
