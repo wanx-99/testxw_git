@@ -14,4 +14,5 @@ int test()
   printf("hahhaha local change\n");
   printf("test xiewan till\n");
   printf("test merge\n");
+  printf("test stash -wan99\n");
 }
