@@ -4,3 +4,8 @@ int main()
 {
   printf("hello world\n");
 }
+
+
+int test()
+{
+}
